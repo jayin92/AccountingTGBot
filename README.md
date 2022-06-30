@@ -11,7 +11,7 @@ Yet another accounting telegram bot.
 ## 特性
 - Python
 - Firebase
-- Deploy on heroku/server
+- Deploy on heroku
 
 ## 使用說明
 
