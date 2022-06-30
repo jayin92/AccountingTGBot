@@ -25,6 +25,6 @@ Yet another accounting telegram bot.
 
 ## 安裝說明
 
-1. `pip install -r requirements.txt` or `pipenv`
+1. `pip install -r requirements.txt` or `pipenv install`
 2. 申請 Firebase 專案，將對應的 .json 放在檔案目錄
 3. 將 Telegram Bot token 放在 secrets.json
